@@ -170,3 +170,11 @@ hr {
 .showcase-blog {
   padding-bottom: 6rem;
 }
+
+.hero-project{
+  padding: 0.5rem;
+  border-top: 1px solid red;
+  border-bottom: 1px solid red ;
+
+  
+}
